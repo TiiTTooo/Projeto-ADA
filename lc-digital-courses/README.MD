@@ -3,4 +3,3 @@
 ## salvando alterações no git
 * comando git push
 * comando fit pull
-* comando git fetch
